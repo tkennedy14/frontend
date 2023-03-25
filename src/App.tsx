@@ -3,8 +3,8 @@ import logo from './logo.svg';
 import './App.css';
 
 import { BrowserRouter as Router, Route, Routes, Link } from 'react-router-dom';
-import Home from "./Home/Home"
-import Products from "./Products/Products"
+import Home from "./Home/Home";
+import Products from "./Products/Products";
 
 function App() {
   const openMenu = () => {
